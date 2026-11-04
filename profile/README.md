@@ -1,6 +1,6 @@
-# Imóvel Periciado - Leitura de Documentos LTDA
+# Aferis - Leitura de Documentos LTDA
 
-### Site institucional: [https://imovelpericiado.com](https://imovelpericiado.com)  
+### Site institucional: [https://aferis.ai](https://aferis.ai)  
 ##### © Imóvel Periciado LTDA. Todos os direitos reservados.
 
 Bem-vindo à **Imóvel Periciado Leitura de Documentos LTDA**, uma empresa especializada na interseção entre tecnologia e perícia imobiliária. Nossa missão é clara e objetiva: **transformar a leitura e validação de documentos jurídicos e registrais em um processo técnico, automatizado e juridicamente robusto**.
